@@ -1,0 +1,19 @@
+{
+  "name": "sdp_project",
+  "version": "0.0.1",
+  "description": "This will be my SDP for my Second Year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arunav07/SDP.git"
+  },
+  "author": "Arunav Chandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arunav07/SDP/issues"
+  },
+  "homepage": "https://github.com/Arunav07/SDP#readme"
+}
